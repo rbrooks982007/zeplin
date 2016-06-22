@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+.extract
+atlassian-ide-plugin.xml
+.DS_Store
+/src/main/webapp/ui
